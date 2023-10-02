@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Processor-Execution-Simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Processor_Execution_Simulator_jar</output-path>
+    <root id="archive" name="Processor-Execution-Simulator.jar">
+      <element id="module-output" name="Processor-Execution-Simulator" />
+    </root>
+  </artifact>
+</component>
